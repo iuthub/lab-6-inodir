@@ -12,4 +12,4 @@ You will practice your SQL skills and also implement a web page which dynamicall
 
 - **Student ID**: U1610170
 - **Student Name**: Nodirjon Utkirov
-- **Section Number**: 002
+- **Section Number**: 002 
